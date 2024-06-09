@@ -11,3 +11,5 @@ Data Organization: Input the collected data into Excel sheets, organizing it in 
 Data Analysis: Utilize Excel's functions and tools to analyze the data effectively. This may involve calculating averages, trends, percentages, growth rates, and other relevant metrics. Excel offers a wide range of functions for statistical analysis, visualization, and reporting.
 
 Visualization: Create visual representations of the data using charts, graphs, and tables in Excel. Visualizations make it easier to identify patterns, trends, and outliers within the data, allowing for better decision-making.
+### Screenshot 
+![KPI Excel](https://github.com/PreranaRokade/Analysis-of-KPI-for-Startup-using-Excal-Dashboard/assets/168730729/71e402d9-ef70-40f3-837b-fb62177a90e3)
